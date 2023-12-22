@@ -1,0 +1,6 @@
+.vscode/*
+.idea/*
+.DS_Store
+__pycache__/*
+exps_stl
+scripts
